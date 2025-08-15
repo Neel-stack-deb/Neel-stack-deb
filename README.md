@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neel-stack-deb&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-stack-deb&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
-
----
-
 ## 📫 Connect With Me  
 
 📧 **Email:** [debarshimajumder.dev@gmail.com](mailto:debarshimajumder.dev@gmail.com)  
