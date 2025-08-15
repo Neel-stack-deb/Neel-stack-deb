@@ -1,61 +1,85 @@
-# 👋 Hey, I'm Debarshi Majumder  
-
-🚀 **CSE Sophomore at VIT-AP | Full-Stack Developer | AI/ML & IoT Enthusiast | Tech Community Co-Lead**  
-
-I'm passionate about building impactful software that blends **AI, IoT, and Web Development** to solve real-world problems.  
-From AI-powered learning assistants to IoT-driven smart waste systems, I love taking ideas from concept to deployment.  
+<h1 align="center">👋 Hey, I'm Debarshi Majumder</h1>
+<h3 align="center">🚀 CSE Sophomore | Full-Stack Dev | AI/ML & IoT Enthusiast | Tech Community Co-Lead</h3>
 
 ---
 
 ## 🌟 About Me  
-- 🎯 Focused on **Full-Stack Development**, **AI/ML**, and **IoT** projects.  
-- 🛠 Strong foundation in **JavaScript, React, Node.js, PostgreSQL, MongoDB**.  
-- 🤝 Co-Lead at **CSI** and **MSC** Clubs, fostering innovation & teamwork.  
-- 🌍 Fluent in English, Hindi, Bengali, and French.  
+- 💻 Passionate about **Full-Stack Web Development**, **Blockchain**, **IoT**, and **Generative AI**.  
+- 🎯 I love building impactful tools that automate workflows and solve real-world problems.  
+- 🤝 **Co-Lead** at CSI & MSC Clubs, mentoring peers and driving tech initiatives.  
+- 🌍 Fluent in **English**, **Hindi**, **Bengali**, and **French**.  
+
+---
+
+## 🛠 Tech Stack  
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)  
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)  
+
+**AI/ML & IoT:**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)  
+![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white&style=for-the-badge)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)  
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 1️⃣ EduMentor AI – Personalized Learning Platform  
-AI-powered platform that adapts study content based on user performance.  
-**Stack:** React, TailwindCSS, Node.js, Express, PostgreSQL, OpenAI API, Vercel, Render  
-🔗 *Resume Hook:* Developed a full-stack AI-powered learning assistant that dynamically adapts learning content and difficulty based on user performance.  
+### 📚 EduMentor AI – Personalized Learning Platform  
+**Stack:** React, TailwindCSS, Node.js, PostgreSQL, OpenAI API, Vercel, Render  
+🔹 AI-powered platform adapting study content based on user performance.  
 
 ---
 
-### 2️⃣ IntelliBin – Smart Waste Management System  
-IoT-based bin that auto-sorts waste and tracks data via a cloud dashboard.  
-**Stack:** ESP32, Raspberry Pi, Node.js/Django, MongoDB, React Native, AWS IoT Core  
-🔗 *Resume Hook:* Built an IoT-enabled waste sorting system with real-time monitoring and gamified community engagement.  
+### ♻ IntelliBin – Smart Waste Management System  
+**Stack:** ESP32, Raspberry Pi, Node.js/Django, MongoDB, AWS IoT Core  
+🔹 IoT-enabled bin that auto-sorts waste and tracks data in real time.  
 
 ---
 
-### 3️⃣ VidThread – Social Video Discussion Platform  
-A YouTube-like platform with threaded discussions and AI-powered video summaries.  
-**Stack:** React, Redux Toolkit, Node.js, Express, AWS S3, PostgreSQL, Redis, Whisper API, GPT  
-🔗 *Resume Hook:* Created a full-stack video hosting and threaded discussion platform with AI-powered transcription and summarization.  
+### 🎥 VidThread – Social Video Discussion Platform  
+**Stack:** React, Redux Toolkit, Node.js, PostgreSQL, AWS S3, Whisper API, GPT  
+🔹 YouTube-like platform with threaded discussions and AI-powered summaries.  
 
 ---
 
-## 🛠 Tech Stack  
-**Frontend:** React.js, Next.js, TailwindCSS  
-**Backend:** Node.js, Express.js, Django  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**AI/ML:** OpenAI API, Gemini API, Whisper API  
-**IoT:** ESP32, Raspberry Pi, Arduino IDE  
-**Cloud & DevOps:** AWS, Vercel, Render, Firebase  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neel-stack-deb&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-stack-deb&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** debarshimajumder.dev@gmail.com  
+
+📧 **Email:** [debarshimajumder.dev@gmail.com](mailto:debarshimajumder.dev@gmail.com)  
 📱 **Phone:** +91 6290459162  
-🌐 **Portfolio (Coming Soon)**  
 💼 [LinkedIn](https://www.linkedin.com/in/debarshi-majumder-661343321/)  
 💻 [GitHub](https://github.com/Neel-stack-deb)  
 
 ---
 
-> _"Code with purpose, build with passion."_  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Neel-stack-deb&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />  
+</p>
 
+> _"Code with purpose, build with passion."_  
