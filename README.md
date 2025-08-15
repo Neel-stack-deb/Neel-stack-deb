@@ -1,62 +1,61 @@
-# 💫 About Me:
-🚀 **Debarshi Majumder** – AI, IoT & Full-Stack Developer  
-*"Turning ambitious ideas into scalable products"*  
+# 👋 Hey, I'm Debarshi Majumder  
 
-🎓 **CSE Student** @ VIT-AP University (2024–28) – CGPA **9.3**  
-💡 Passionate about **AI/ML**, **IoT Hardware**, & **Scalable Web Apps**  
-🤝 Co-lead @ **CSI** & **MSC Club** | Innovator & Hackathon Enthusiast  
-🌐 Fluent in **English**, **Hindi**, **Bengali**, **French**  
+🚀 **CSE Sophomore at VIT-AP | Full-Stack Developer | AI/ML & IoT Enthusiast | Tech Community Co-Lead**  
+
+I'm passionate about building impactful software that blends **AI, IoT, and Web Development** to solve real-world problems.  
+From AI-powered learning assistants to IoT-driven smart waste systems, I love taking ideas from concept to deployment.  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarshi-majumder-661343321/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarshimajumder.dev@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Neel-stack-deb)  
+## 🌟 About Me  
+- 🎯 Focused on **Full-Stack Development**, **AI/ML**, and **IoT** projects.  
+- 🛠 Strong foundation in **JavaScript, React, Node.js, PostgreSQL, MongoDB**.  
+- 🤝 Co-Lead at **CSI** and **MSC** Clubs, fostering innovation & teamwork.  
+- 🌍 Fluent in English, Hindi, Bengali, and French.  
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🚀 Featured Projects  
+
+### 1️⃣ EduMentor AI – Personalized Learning Platform  
+AI-powered platform that adapts study content based on user performance.  
+**Stack:** React, TailwindCSS, Node.js, Express, PostgreSQL, OpenAI API, Vercel, Render  
+🔗 *Resume Hook:* Developed a full-stack AI-powered learning assistant that dynamically adapts learning content and difficulty based on user performance.  
 
 ---
 
-# 📂 Featured Projects:
-## 🧠 EduMentor AI – Personalized Learning Platform  
-AI web app that generates adaptive study plans, explains concepts in multiple styles, and creates quizzes.  
-**Tech:** React, Node.js, PostgreSQL, OpenAI/Gemini API  
-
-## ♻ IntelliBin – IoT Smart Waste Management  
-IoT-enabled bin that detects, sorts, and logs waste data with a gamified dashboard.  
-**Tech:** ESP32, Raspberry Pi, Node.js, MongoDB, AWS IoT Core  
-
-## 📊 PitchPerfect – AI Presentation SaaS  
-Generates branded AI-designed presentations with export & theme customization.  
-**Tech:** Next.js, Node.js, DALL·E, Stripe API  
+### 2️⃣ IntelliBin – Smart Waste Management System  
+IoT-based bin that auto-sorts waste and tracks data via a cloud dashboard.  
+**Stack:** ESP32, Raspberry Pi, Node.js/Django, MongoDB, React Native, AWS IoT Core  
+🔗 *Resume Hook:* Built an IoT-enabled waste sorting system with real-time monitoring and gamified community engagement.  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neel-stack-deb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neel-stack-deb&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-stack-deb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+### 3️⃣ VidThread – Social Video Discussion Platform  
+A YouTube-like platform with threaded discussions and AI-powered video summaries.  
+**Stack:** React, Redux Toolkit, Node.js, Express, AWS S3, PostgreSQL, Redis, Whisper API, GPT  
+🔗 *Resume Hook:* Created a full-stack video hosting and threaded discussion platform with AI-powered transcription and summarization.  
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Neel-stack-deb&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+## 🛠 Tech Stack  
+**Frontend:** React.js, Next.js, TailwindCSS  
+**Backend:** Node.js, Express.js, Django  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**AI/ML:** OpenAI API, Gemini API, Whisper API  
+**IoT:** ESP32, Raspberry Pi, Arduino IDE  
+**Cloud & DevOps:** AWS, Vercel, Render, Firebase  
 
 ---
 
-### ✨ Fun Fact  
-I believe every idea — no matter how wild — can be engineered into reality with enough **code, coffee, and curiosity** ☕💡  
+## 📫 Connect With Me  
+📧 **Email:** debarshimajumder.dev@gmail.com  
+📱 **Phone:** +91 6290459162  
+🌐 **Portfolio (Coming Soon)**  
+💼 [LinkedIn](https://www.linkedin.com/in/debarshi-majumder-661343321/)  
+💻 [GitHub](https://github.com/Neel-stack-deb)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neel-stack-deb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+> _"Code with purpose, build with passion."_  
+
