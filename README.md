@@ -71,7 +71,7 @@
 
 📧 **Email:** [debarshimajumder.dev@gmail.com](mailto:debarshimajumder.dev@gmail.com)  
 📱 **Phone:** +91 6290459162  
-💼 [LinkedIn](https://www.linkedin.com/in/debarshi-majumder-661343321/)  
+💼 [LinkedIn](www.linkedin.com/in/debarshi-majumder-neel)  
 💻 [GitHub](https://github.com/Neel-stack-deb)  
 
 ---
