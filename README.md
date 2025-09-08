@@ -1,221 +1,179 @@
-<table align="center" width="100%">
-<tr>
-<td>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Neel-stack-deb/Neel-stack-deb/main/github-header-image.png" alt="Debarshi Majumder's GitHub banner" width="100%"/>
-  <br>
+  <img src="https://raw.githubusercontent.com/Neel-stack-deb/Neel-stack-deb/main/github-header-image.png" alt="Debarshi Majumder's GitHub banner"/>
   <h1>
-    Hey, I'm Debarshi Majumder 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+    Hi there, I'm Debarshi Majumder 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
   </h1>
-  <h3>
-    A Full-Stack Developer crafting intelligent solutions for the modern web.
-  </h3>
+  <p>
+    <strong>A Sophomore Computer Science student engineering intelligent solutions that bridge the digital and physical worlds.</strong>
+  </p>
 </div>
 
-<p align="center">
-  <a href="#-about-me"><strong>About Me</strong></a> •
-  <a href="#-tech-arsenal"><strong>Tech Arsenal</strong></a> •
-  <a href="#-featured-projects"><strong>Projects</strong></a> •
-  <a href="#-leadership--community"><strong>Leadership</strong></a> •
-  <a href="#-connect-with-me"><strong>Connect</strong></a>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neel-stack-deb&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&include_all_commits=true" alt="Debarshi's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-stack-deb&layout=compact&theme=tokyonight&hide_border=true" alt="Debarshi's Top Languages" />
-</p>
-
----
-
-<h2 id="-about-me" align="center">🚀 About Me</h2>
-
-<p align="center">
-I'm a sophomore Computer Science student driven by a passion for building things that matter. As a developer, I specialize in the intersection of **Full-Stack Web Development**, **Generative AI**, and **IoT**, aiming to create seamless, intelligent experiences that solve real-world problems. I'm a lifelong learner, constantly exploring new technologies to push the boundaries of what's possible.
-<br><br>
-Beyond the code, I'm deeply involved in nurturing tech communities. As a **Co-Lead for both the CSI & MSC Clubs**, I dedicate my time to mentoring peers, organizing workshops, and fostering an environment of collaborative innovation.
-</p>
-
--   🌱 **Currently Mastering:** Advanced RAG techniques, Distributed Systems, and Web3 fundamentals.
--   🔭 **Building Next:** A decentralized identity management system using Blockchain and Zero-Knowledge Proofs.
--   💬 **Let's Talk About:** Next.js, AI-powered applications, system design, or IoT architecture.
-
----
-
-<h2 id="-tech-arsenal" align="center">🛠️ Tech Arsenal</h2>
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 10px;">
-        <tr><td align="center">
-          <h4>Languages & Scripting</h4>
-          <p>
-            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          </p>
-        </td></tr>
-      </table>
+<table align="center" width="100%" style="max-width: 800px;">
+  <tr align="center">
+    <td width="25%">
+      <a href="#-full-stack-development">
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-web-development-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Full-Stack Development Icon"/>
+        <br><strong>Full-Stack Development</strong>
+      </a>
     </td>
-    <td valign="top" width="50%">
-      <table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 10px;">
-        <tr><td align="center">
-          <h4>Frontend Development</h4>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          </p>
-        </td></tr>
-      </table>
+    <td width="25%">
+      <a href="#-ai--ml-innovation">
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-automation-flaticons-flat-flat-icons-2.png" alt="AI/ML Icon"/>
+        <br><strong>AI & ML Innovation</strong>
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 10px;">
-        <tr><td align="center">
-          <h4>Backend & Databases</h4>
-          <p>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-          </p>
-        </td></tr>
-      </table>
+    <td width="25%">
+      <a href="#-iot--embedded-systems">
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-iot-smart-city-flaticons-lineal-color-flat-icons.png" alt="IoT Icon"/>
+        <br><strong>IoT & Embedded Systems</strong>
+      </a>
     </td>
-    <td valign="top" width="50%">
-      <table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 10px;">
-        <tr><td align="center">
-          <h4>AI, IoT, Cloud & DevOps</h4>
-          <p>
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-            <img src="https://img.shields.io/badge/ESP32-E7342C?style=for-the-badge&logo=espressif&logoColor=white" />
-            <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-          </p>
-        </td></tr>
-      </table>
+    <td width="25%">
+      <a href="#-community-leadership">
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-community-marketing-flaticons-flat-flat-icons.png" alt="Community Icon"/>
+        <br><strong>Community Leadership</strong>
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 id="-featured-projects" align="center">🚀 Featured Projects</h2>
+As a developer and innovator, I'm passionate about building impactful tools that automate workflows and solve real-world problems. My core focus lies in the intersection of web technologies, artificial intelligence, and the Internet of Things. When I'm not coding, I'm actively mentoring peers and driving tech initiatives as a **Co-Lead at the CSI & MSC Clubs**.
 
-<table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
-  <tr>
-    <td valign="top" width="65%">
-      <h3>📚 EduMentor AI – Personalized Learning Platform</h3>
-      <p>An intelligent learning platform that dynamically adapts educational content to a student's performance. It leverages AI to identify knowledge gaps and create customized study plans, ensuring a more effective and engaging learning journey.</p>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>🤖 AI-driven content personalization</li>
-        <li>📊 Real-time performance tracking and analytics</li>
-        <li>📚 Interactive quizzes and adaptive modules</li>
-      </ul>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </p>
-      <a href="[Link to EduMentor Repo]"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="[Link to EduMentor Demo]"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=azure-static-web-apps&logoColor=white" /></a>
-    </td>
-    <td valign="top" width="35%">
-      <br>
-      <img src="https://raw.githubusercontent.com/Neel-stack-deb/Neel-stack-deb/main/edumentor-demo.png" alt="EduMentor AI Demo" width="100%"/>
-    </td>
-  </tr>
-</table>
+-   🎯 **Currently:** Deepening my knowledge of distributed systems and building scalable backend services.
+-   🚀 **Next:** Exploring the potential of Web3 and decentralized applications.
+-   💬 **Ask me about:** Next.js, AI application architecture, or anything related to IoT.
 
-<table width="100%" style="border: 1px solid #333; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
-  <tr>
-    <td valign="top" width="65%">
-      <h3>♻️ IntelliBin – Smart Waste Management System</h3>
-      <p>An end-to-end IoT solution for modernizing urban waste collection. IntelliBin automatically sorts waste and monitors fill levels in real-time, sending data to a cloud dashboard to optimize collection routes, reduce operational costs, and promote recycling.</p>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>🤖 Automated waste sorting using sensors</li>
-        <li>☁️ Real-time data sync with AWS IoT Core</li>
-        <li>🗺️ Dashboard with analytics and optimized routing</li>
-      </ul>
-      <strong>Tech Stack:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/ESP32-E7342C?style=for-the-badge&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      </p>
-      <a href="[Link to IntelliBin Repo]"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td valign="top" width="35%">
-      <br>
-      <img src="https://raw.githubusercontent.com/Neel-stack-deb/Neel-stack-deb/main/intellibin-demo.png" alt="IntelliBin Demo" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 id="-leadership--community" align="center">🤝 Leadership & Community</h2>
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Co--Lead-CSI_Club-blue?style=for-the-badge" alt="CSI Club Co-Lead" />
-      <img src="https://img.shields.io/badge/Co--Lead-MSC_Club-orange?style=for-the-badge" alt="MSC Club Co-Lead" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>As a leader in my university's top tech clubs, I'm passionate about building a vibrant developer community. My roles involve:</p>
-      <ul>
-        <li><strong>Organizing and conducting technical workshops</strong> on topics ranging from Web Development to AI.</li>
-        <li><strong>Mentoring junior students</strong>, providing guidance on their projects and career paths.</li>
-        <li><strong>Driving club initiatives and hackathons</strong> to foster a culture of innovation and hands-on learning.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<details align="center">
+  <summary><strong>💡 View My Complete Tech Stack</strong></summary>
+  <br>
+  <table width="100%" style="max-width: 700px;">
+    <tr>
+      <td valign="top" width="33%">
+        <h4><strong>Languages</strong></h4>
+        <p>
+          • C & C++<br>
+          • Python<br>
+          • Java<br>
+          • JavaScript & TypeScript
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4><strong>Frontend</strong></h4>
+        <p>
+          • React & Next.js<br>
+          • Redux<br>
+          • TailwindCSS<br>
+          • HTML5 & CSS3
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4><strong>Backend</strong></h4>
+        <p>
+          • Node.js & Express.js<br>
+          • Django<br>
+          • REST & GraphQL APIs
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="33%">
+        <h4><strong>Databases</strong></h4>
+        <p>
+          • PostgreSQL (SQL)<br>
+          • MongoDB (NoSQL)<br>
+          • Redis (In-memory)
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4><strong>AI/ML & IoT</strong></h4>
+        <p>
+          • OpenAI API<br>
+          • PyTorch<br>
+          • ESP32<br>
+          • Raspberry Pi
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4><strong>Cloud & DevOps</strong></h4>
+        <p>
+          • AWS (S3, IoT Core)<br>
+          • Vercel<br>
+          • Firebase<br>
+          • Docker
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
-<h2 id="-connect-with-me" align="center">📫 Connect With Me</h2>
+## 🚀 My Featured Projects
+
+### 📚 EduMentor AI – Personalized Learning Platform
+> An intelligent learning platform that adapts study content to a student's performance, creating a unique and efficient learning path.
+
+* **Key Features:** AI-driven content personalization, real-time performance tracking, and adaptive quizzes.
+* **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+* **Links:** <a href="[Link to EduMentor Repo]"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="[Link to EduMentor Demo]"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=azure-static-web-apps&logoColor=white" /></a>
+
+---
+
+### ♻️ IntelliBin – Smart Waste Management System
+> An IoT-enabled smart bin that auto-sorts waste and transmits real-time fill-level data to a cloud dashboard for optimized collection routes.
+
+* **Key Features:** Automated waste sorting, real-time data sync with AWS IoT Core, and an analytics dashboard.
+* **Tech Stack:** ![ESP32](https://img.shields.io/badge/-ESP32-E7342C?style=for-the-badge&logo=espressif&logoColor=white)
+    ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* **Links:** <a href="[Link to IntelliBin Repo]"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+### 🎥 VidThread – Social Video Discussion Platform
+> A YouTube-like platform with threaded discussions at specific timestamps and AI-powered summaries of long conversation threads.
+
+* **Key Features:** Timestamp-based threaded comments, AI-generated summaries, and efficient video streaming from AWS S3.
+* **Tech Stack:**
+    ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+* **Links:** <a href="[Link to VidThread Repo]"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+## 📊 My GitHub Activity
 
 <p align="center">
-  I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out!
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neel-stack-deb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Debarshi's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-stack-deb&layout=compact&theme=github_dark&hide_border=true" alt="Debarshi's Top Languages" />
 </p>
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to collaborating on projects and connecting with other developers. Feel free to reach out to me!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/debarshi-majumder-neel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Neel-stack-deb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
   <a href="mailto:debarshimajumder.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
   <a href="https://wa.me/916290459162"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neel-stack-deb&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <br>
   <br>
   <p><em>"Code with purpose, build with passion."</em></p>
 </div>
-
-</td>
-</tr>
-</table>
