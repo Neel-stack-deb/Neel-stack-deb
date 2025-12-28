@@ -14,7 +14,7 @@ Hi — I’m Neel. I build low‑latency real‑time backends and delightful fro
 ---
 
 ## 🛠️ Core Tech (examples — I’ll replace with your exact stack)
-- Languages: JavaScript, TypeScript, Go (replace/confirm)
+- Languages: JavaScript, TypeScript, Go
 - Frontend: React, Next.js, Vite
 - Backend: Node.js, Express, WebSockets, WebRTC
 - Databases & Cache: PostgreSQL, Redis
