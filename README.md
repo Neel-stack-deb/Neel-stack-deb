@@ -13,11 +13,11 @@ Hi — I’m Neel. I build low‑latency real‑time backends and delightful fro
 
 ---
 
-## 🛠️ Core Tech (examples — I’ll replace with your exact stack)
-- Languages: JavaScript, TypeScript, Go
+## 🛠️ Core Tech
+- Languages: JavaScript, TypeScript, Go, Java, C/C++
 - Frontend: React, Next.js, Vite
 - Backend: Node.js, Express, WebSockets, WebRTC
-- Databases & Cache: PostgreSQL, Redis
+- Databases & Cache: PostgreSQL, Redis, Mongo DB
 - Infra & CI: Docker, GitHub Actions, AWS
 - Testing & Quality: Jest, Playwright, ESLint, Prettier
 
@@ -32,8 +32,7 @@ A modern platform for threaded video discussions, collaborative annotations, and
   - Real‑time updates for collaborators
   - Rich playback + annotation UI
 - Tech (example): React, WebSockets/WebRTC, Node.js, PostgreSQL
-- Repo: https://github.com/Neel-stack-deb/vidthread (please confirm)
-- Live demo: (add demo link if available)
+- Repo: https://github.com/Neel-stack-deb/vidthread 
 
 Quickstart
 ```bash
@@ -46,14 +45,13 @@ npm run dev
 ---
 
 ### Zoogy
-A product focused on [marketplace / media / subscriptions] (please confirm exact domain).
+A product focused on [marketplace / media / subscriptions] 
 - Highlights:
   - Clean UX for [buyers/sellers/media consumers]
   - Payment/subscription integrations
   - Dashboard + analytics
 - Tech (example): Next.js, Tailwind, Node.js, Stripe
-- Repo: https://github.com/Neel-stack-deb/zoogy (please confirm)
-- Live demo: (add demo link if available)
+- Repo: https://github.com/Neel-stack-deb/zoogy
 
 Quickstart
 ```bash
@@ -71,9 +69,8 @@ A high‑throughput realtime backend that powers live collaboration, presence, a
   - Scalable pub/sub and presence
   - Low‑latency fan‑out (WebSockets / server‑sent events)
   - Redis / message queue backing and horizontal scaling
-- Tech (example): Node.js, Redis, Docker, Kubernetes (confirm your stack)
-- Repo: https://github.com/Neel-stack-deb/realtime-backend (please confirm)
-- Live demo & docs: (add link if available)
+- Tech: Node.js, Redis, Docker, Kubernetes (confirm your stack)
+- Repo: https://github.com/Neel-stack-deb/realtime-backend 
 
 Quickstart
 ```bash
