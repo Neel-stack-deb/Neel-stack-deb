@@ -2,18 +2,18 @@
 Full‑stack Developer · Real‑time Systems · Open‑Source Enthusiast
 
 
-Hi — I’m Neel. I build low‑latency real‑time backends and delightful frontends that make collaboration feel instant. I focus on performance, great developer experience, and shipping production‑ready systems.
+Hi, I’m Neel. I build low‑latency real‑time backends and delightful frontends that make collaboration feel instant. I focus on performance, great developer experience, and shipping production‑ready systems.
 
 ---
 
-## 🔭 Current Focus
+##  Current Focus
 - Real‑time systems: presence, live events, and collaborative sync
 - Full‑stack product features end‑to‑end
 - Open-source tooling and developer ergonomics
 
 ---
 
-## 🛠️ Core Tech
+##  Core Tech
 - Languages: JavaScript, TypeScript, Go, Java, C/C++
 - Frontend: React, Next.js, Vite
 - Backend: Node.js, Express, WebSockets, WebRTC
@@ -23,7 +23,7 @@ Hi — I’m Neel. I build low‑latency real‑time backends and delightful fro
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 ### Vidthread
 A modern platform for threaded video discussions, collaborative annotations, and time‑linked comments.
@@ -81,7 +81,7 @@ docker-compose up --build
 
 ---
 
-## 📦 How I Work
+##  How I Work
 - Prioritize fast developer feedback loops and observability
 - Prefer small, well‑tested increments with clear rollback
 - Automate deployments with CI and infra as code
