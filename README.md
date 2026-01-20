@@ -17,7 +17,7 @@ Hi, I’m Neel. I build low‑latency real‑time backends and delightful fronte
 - Languages: JavaScript, TypeScript, Go, Java, C/C++
 - Frontend: React, Next.js, Vite
 - Backend: Node.js, Express, WebSockets, WebRTC
-- Databases & Cache: PostgreSQL, Redis, Mongo DB
+- Databases & Cache: PostgreSQL, Redis, Mongo DB, pinecone
 - Infra & CI: Docker, GitHub Actions, AWS
 - Testing & Quality: Jest, Playwright, ESLint, Prettier
 
