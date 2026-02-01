@@ -31,7 +31,7 @@ A modern platform for threaded video discussions, collaborative annotations, and
   - Threaded, time‑anchored comments on videos
   - Real‑time updates for collaborators
   - Rich playback + annotation UI
-- Tech (example): React, WebSockets/WebRTC, Node.js, PostgreSQL
+- Tech: React, Node.js, MongoDB
 - Repo: https://github.com/Neel-stack-deb/vidthread 
 
 Quickstart
@@ -50,7 +50,7 @@ A product focused on [marketplace / media / subscriptions]
   - Clean UX for [buyers/sellers/media consumers]
   - Payment/subscription integrations
   - Dashboard + analytics
-- Tech (example): Next.js, Tailwind, Node.js, Stripe
+- Tech: React, Tailwind, Node.js, MongoDB
 - Repo: https://github.com/Neel-stack-deb/zoogy
 
 Quickstart
@@ -86,6 +86,32 @@ ClaimAgent is a **production-grade AI system** that automates medical insurance 
 - Works on real insurer portals (no APIs)
 
 > AI that doesn’t just think — it *executes*.
+
+---
+
+##  Gravity Sandbox — Real-Time Multiplayer Physics Simulator 🏆
+
+**🏆 WINNER — SimVerse’25 Hackathon**
+
+Gravity Sandbox is a **real-time collaborative gravity simulation** where multiple users build and manipulate a shared universe live across devices. Think **Google Docs for Astrophysics**.
+
+🔗 **Live Demo:** https://orbiting-canvas-3.onrender.com/
+
+**What Makes It Cool**
+-  Real-time multiplayer sync using **Socket.io**
+-  Custom **N-Body physics engine** (no physics libraries)
+-  Stable orbits via symplectic integration
+-  Cinematic black holes, trails & spacetime grid
+-  Runs at 60 FPS with optimistic UI
+
+**Tech Stack**
+- React + React Three Fiber + Three.js  
+- Node.js + Express + Socket.io  
+- Custom physics engine (Newtonian gravity)
+
+Built in **24 hours** at **SimVerse’25**, organized by **ACS & ACM (VIT-AP)** — and **won the hackathon**.
+
+> Turning equations into something you can *play with*.
 
 ---
 
