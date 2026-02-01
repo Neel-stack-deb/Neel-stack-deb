@@ -25,6 +25,32 @@ Hi, I’m Neel. I build low‑latency real‑time backends and delightful fronte
 
 ##  Featured Projects
 
+##  Mini CRM Backend — Production-Grade REST API
+
+A **scalable CRM backend** built with **NestJS, PostgreSQL, and Prisma**, featuring **JWT authentication, role-based access control, and clean domain separation**. Designed like a real-world backend, not a tutorial app.
+
+**Key Capabilities**
+-  JWT authentication + role-based authorization (ADMIN / EMPLOYEE)
+-  User, Customer & Task management (full CRUD)
+-  Task assignment with strict ownership rules
+-  Pagination, search, and validation
+-  Swagger / OpenAPI documentation with JWT support
+
+**Tech Stack**
+- NestJS (TypeScript)
+- PostgreSQL + Prisma ORM
+- Passport JWT, bcrypt
+- class-validator, Swagger
+
+**Why It Matters**
+- Real RBAC enforcement (not route-level hacks)
+- Clean modular architecture (auth, users, customers, tasks)
+- Production-ready patterns: validation, error handling, security
+
+> A backend that could actually survive first contact with real users.
+
+---
+
 ### Vidthread
 A modern platform for threaded video discussions, collaborative annotations, and time‑linked comments.
 - Highlights:
