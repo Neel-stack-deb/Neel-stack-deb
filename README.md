@@ -63,6 +63,32 @@ npm run dev
 
 ---
 
+##  ClaimAgent — Autonomous Healthcare Claims AI
+
+**Turns 90-minute insurance authorizations into 3 minutes. No APIs. Real portals.**
+
+ClaimAgent is a **production-grade AI system** that automates medical insurance prior authorizations using **agentic AI, RAG, vector search, and real browser automation**. Built in **24 hours** to attack a **$31B healthcare admin problem**.
+
+**Repo**: https://github.com/Neel-stack-deb/ClaimAgent
+
+**Live Demo:** https://claimagent-1.onrender.com
+
+**Tech Highlights**
+- Medical AI (RAG) with regulatory context  
+- Agentic AI for medical necessity & fraud checks  
+- Pinecone vector search for procedure matching  
+- Playwright automation with human-like interaction  
+- Node.js backend, real-time execution  
+
+**Impact**
+- 97% time reduction (90 min → 3 min)  
+- ~$250 saved per claim  
+- Works on real insurer portals (no APIs)
+
+> AI that doesn’t just think — it *executes*.
+
+---
+
 ### Realtime Backend Project
 A high‑throughput realtime backend that powers live collaboration, presence, and event streaming.
 - Highlights:
