@@ -16,7 +16,7 @@ Hi, I’m Neel. I build low‑latency real‑time backends and delightful fronte
 ##  Core Tech
 - Languages: JavaScript, TypeScript, Go, Java, C/C++
 - Frontend: React, Next.js, Vite
-- Backend: Node.js, Express, WebSockets, WebRTC
+- Backend: Node.js, Express, WebSockets, WebRTC, Message Queues
 - Databases & Cache: PostgreSQL, Redis, Mongo DB, pinecone
 - Infra & CI: Docker, GitHub Actions, AWS
 - Testing & Quality: Jest, Playwright, ESLint, Prettier
@@ -147,7 +147,7 @@ A high‑throughput realtime backend that powers live collaboration, presence, a
   - Scalable pub/sub and presence
   - Low‑latency fan‑out (WebSockets / server‑sent events)
   - Redis / message queue backing and horizontal scaling
-- Tech: Node.js, Redis, Docker, Kubernetes (confirm your stack)
+- Tech: Node.js, Redis, Docker
 - Repo: https://github.com/Neel-stack-deb/realtime-backend 
 
 Quickstart
