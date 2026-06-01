@@ -147,7 +147,7 @@ A high‑throughput realtime backend that powers live collaboration, presence, a
   - Scalable pub/sub and presence
   - Low‑latency fan‑out (WebSockets / server‑sent events)
   - Redis / message queue backing and horizontal scaling
-- Tech: Node.js, Redis, Docker
+- Tech: Node.js, Redis, Docker, WebSockets
 - Repo: https://github.com/Neel-stack-deb/realtime-backend 
 
 Quickstart
